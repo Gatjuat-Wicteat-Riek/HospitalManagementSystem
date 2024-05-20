@@ -1,0 +1,376 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HospitalMangementSystemGUI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B465EFB-0874-4A64-A502-A40351F48825}|HMS.csproj|D:\\HospitalMangementSystemGUI\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5B465EFB-0874-4A64-A502-A40351F48825}|HMS.csproj|solutionrelative:dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B465EFB-0874-4A64-A502-A40351F48825}|HMS.csproj|D:\\HospitalMangementSystemGUI\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B465EFB-0874-4A64-A502-A40351F48825}|HMS.csproj|solutionrelative:dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B465EFB-0874-4A64-A502-A40351F48825}|HMS.csproj|D:\\HospitalMangementSystemGUI\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B465EFB-0874-4A64-A502-A40351F48825}|HMS.csproj|solutionrelative:appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B465EFB-0874-4A64-A502-A40351F48825}|HMS.csproj|d:\\hospitalmangementsystemgui\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5B465EFB-0874-4A64-A502-A40351F48825}|HMS.csproj|solutionrelative:appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B465EFB-0874-4A64-A502-A40351F48825}|HMS.csproj|d:\\hospitalmangementsystemgui\\appointmentpatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B465EFB-0874-4A64-A502-A40351F48825}|HMS.csproj|solutionrelative:appointmentpatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B465EFB-0874-4A64-A502-A40351F48825}|HMS.csproj|d:\\hospitalmangementsystemgui\\appointmentpatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5B465EFB-0874-4A64-A502-A40351F48825}|HMS.csproj|solutionrelative:appointmentpatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B465EFB-0874-4A64-A502-A40351F48825}|HMS.csproj|D:\\HospitalMangementSystemGUI\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B465EFB-0874-4A64-A502-A40351F48825}|HMS.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B465EFB-0874-4A64-A502-A40351F48825}|HMS.csproj|d:\\hospitalmangementsystemgui\\doctorhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B465EFB-0874-4A64-A502-A40351F48825}|HMS.csproj|solutionrelative:doctorhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B465EFB-0874-4A64-A502-A40351F48825}|HMS.csproj|d:\\hospitalmangementsystemgui\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B465EFB-0874-4A64-A502-A40351F48825}|HMS.csproj|solutionrelative:doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B465EFB-0874-4A64-A502-A40351F48825}|HMS.csproj|d:\\hospitalmangementsystemgui\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5B465EFB-0874-4A64-A502-A40351F48825}|HMS.csproj|solutionrelative:doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B465EFB-0874-4A64-A502-A40351F48825}|HMS.csproj|d:\\hospitalmangementsystemgui\\doctorhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5B465EFB-0874-4A64-A502-A40351F48825}|HMS.csproj|solutionrelative:doctorhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B465EFB-0874-4A64-A502-A40351F48825}|HMS.csproj|d:\\hospitalmangementsystemgui\\docorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B465EFB-0874-4A64-A502-A40351F48825}|HMS.csproj|solutionrelative:docorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B465EFB-0874-4A64-A502-A40351F48825}|HMS.csproj|d:\\hospitalmangementsystemgui\\doctordoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5B465EFB-0874-4A64-A502-A40351F48825}|HMS.csproj|solutionrelative:doctordoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B465EFB-0874-4A64-A502-A40351F48825}|HMS.csproj|d:\\hospitalmangementsystemgui\\docorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5B465EFB-0874-4A64-A502-A40351F48825}|HMS.csproj|solutionrelative:docorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B465EFB-0874-4A64-A502-A40351F48825}|HMS.csproj|d:\\hospitalmangementsystemgui\\userloginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B465EFB-0874-4A64-A502-A40351F48825}|HMS.csproj|solutionrelative:userloginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B465EFB-0874-4A64-A502-A40351F48825}|HMS.csproj|d:\\hospitalmangementsystemgui\\userloginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5B465EFB-0874-4A64-A502-A40351F48825}|HMS.csproj|solutionrelative:userloginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B465EFB-0874-4A64-A502-A40351F48825}|HMS.csproj|d:\\hospitalmangementsystemgui\\doctordoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B465EFB-0874-4A64-A502-A40351F48825}|HMS.csproj|solutionrelative:doctordoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B465EFB-0874-4A64-A502-A40351F48825}|HMS.csproj|d:\\hospitalmangementsystemgui\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5B465EFB-0874-4A64-A502-A40351F48825}|HMS.csproj|solutionrelative:home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B465EFB-0874-4A64-A502-A40351F48825}|HMS.csproj|d:\\hospitalmangementsystemgui\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B465EFB-0874-4A64-A502-A40351F48825}|HMS.csproj|solutionrelative:home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B465EFB-0874-4A64-A502-A40351F48825}|HMS.csproj|d:\\hospitalmangementsystemgui\\patienthome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B465EFB-0874-4A64-A502-A40351F48825}|HMS.csproj|solutionrelative:patienthome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B465EFB-0874-4A64-A502-A40351F48825}|HMS.csproj|D:\\HospitalMangementSystemGUI\\dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B465EFB-0874-4A64-A502-A40351F48825}|HMS.csproj|solutionrelative:dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "D:\\HospitalMangementSystemGUI\\Appointment.cs",
+              "RelativeDocumentMoniker": "Appointment.cs",
+              "ToolTip": "D:\\HospitalMangementSystemGUI\\Appointment.cs",
+              "RelativeToolTip": "Appointment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T04:51:12.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DocorForm.cs",
+              "DocumentMoniker": "D:\\HospitalMangementSystemGUI\\DocorForm.cs",
+              "RelativeDocumentMoniker": "DocorForm.cs",
+              "ToolTip": "D:\\HospitalMangementSystemGUI\\DocorForm.cs",
+              "RelativeToolTip": "DocorForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T21:39:18.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HospitalMangementSystemGUI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\HospitalMangementSystemGUI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T07:48:07.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppointmentPatient.cs [Design]",
+              "DocumentMoniker": "D:\\HospitalMangementSystemGUI\\AppointmentPatient.cs",
+              "RelativeDocumentMoniker": "AppointmentPatient.cs",
+              "ToolTip": "D:\\HospitalMangementSystemGUI\\AppointmentPatient.cs [Design]",
+              "RelativeToolTip": "AppointmentPatient.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T20:16:55.994Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppointmentPatient.cs",
+              "DocumentMoniker": "D:\\HospitalMangementSystemGUI\\AppointmentPatient.cs",
+              "RelativeDocumentMoniker": "AppointmentPatient.cs",
+              "ToolTip": "D:\\HospitalMangementSystemGUI\\AppointmentPatient.cs",
+              "RelativeToolTip": "AppointmentPatient.cs",
+              "ViewState": "AQIAAJEAAAAAAAAAAADwv08AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T20:19:35.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "D:\\HospitalMangementSystemGUI\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Dashboard.cs",
+              "ToolTip": "D:\\HospitalMangementSystemGUI\\Dashboard.cs [Design]",
+              "RelativeToolTip": "Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T07:38:02.635Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "D:\\HospitalMangementSystemGUI\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Dashboard.cs",
+              "ToolTip": "D:\\HospitalMangementSystemGUI\\Dashboard.cs",
+              "RelativeToolTip": "Dashboard.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T07:47:29.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Appointment.cs [Design]",
+              "DocumentMoniker": "D:\\HospitalMangementSystemGUI\\Appointment.cs",
+              "RelativeDocumentMoniker": "Appointment.cs",
+              "ToolTip": "D:\\HospitalMangementSystemGUI\\Appointment.cs [Design]",
+              "RelativeToolTip": "Appointment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T17:52:48.657Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DoctorHome.cs",
+              "DocumentMoniker": "D:\\HospitalMangementSystemGUI\\DoctorHome.cs",
+              "RelativeDocumentMoniker": "DoctorHome.cs",
+              "ToolTip": "D:\\HospitalMangementSystemGUI\\DoctorHome.cs",
+              "RelativeToolTip": "DoctorHome.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA4AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T21:40:03.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "D:\\HospitalMangementSystemGUI\\Doctor.cs",
+              "RelativeDocumentMoniker": "Doctor.cs",
+              "ToolTip": "D:\\HospitalMangementSystemGUI\\Doctor.cs",
+              "RelativeToolTip": "Doctor.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAtwKcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T21:50:25.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Doctor.cs [Design]",
+              "DocumentMoniker": "D:\\HospitalMangementSystemGUI\\Doctor.cs",
+              "RelativeDocumentMoniker": "Doctor.cs",
+              "ToolTip": "D:\\HospitalMangementSystemGUI\\Doctor.cs [Design]",
+              "RelativeToolTip": "Doctor.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T21:27:55.808Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserLoginForm.cs",
+              "DocumentMoniker": "D:\\HospitalMangementSystemGUI\\UserLoginForm.cs",
+              "RelativeDocumentMoniker": "UserLoginForm.cs",
+              "ToolTip": "D:\\HospitalMangementSystemGUI\\UserLoginForm.cs",
+              "RelativeToolTip": "UserLoginForm.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAADgvygAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T21:03:09.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DoctorHome.cs [Design]",
+              "DocumentMoniker": "D:\\HospitalMangementSystemGUI\\DoctorHome.cs",
+              "RelativeDocumentMoniker": "DoctorHome.cs",
+              "ToolTip": "D:\\HospitalMangementSystemGUI\\DoctorHome.cs [Design]",
+              "RelativeToolTip": "DoctorHome.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T21:16:41.438Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DoctorDoctor.cs [Design]",
+              "DocumentMoniker": "D:\\HospitalMangementSystemGUI\\DoctorDoctor.cs",
+              "RelativeDocumentMoniker": "DoctorDoctor.cs",
+              "ToolTip": "D:\\HospitalMangementSystemGUI\\DoctorDoctor.cs [Design]",
+              "RelativeToolTip": "DoctorDoctor.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T21:26:46.555Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DocorForm.cs [Design]",
+              "DocumentMoniker": "D:\\HospitalMangementSystemGUI\\DocorForm.cs",
+              "RelativeDocumentMoniker": "DocorForm.cs",
+              "ToolTip": "D:\\HospitalMangementSystemGUI\\DocorForm.cs [Design]",
+              "RelativeToolTip": "DocorForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T21:27:37.97Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DoctorDoctor.cs",
+              "DocumentMoniker": "D:\\HospitalMangementSystemGUI\\DoctorDoctor.cs",
+              "RelativeDocumentMoniker": "DoctorDoctor.cs",
+              "ToolTip": "D:\\HospitalMangementSystemGUI\\DoctorDoctor.cs",
+              "RelativeToolTip": "DoctorDoctor.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAArwI8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T21:29:38.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserLoginForm.cs [Design]",
+              "DocumentMoniker": "D:\\HospitalMangementSystemGUI\\UserLoginForm.cs",
+              "RelativeDocumentMoniker": "UserLoginForm.cs",
+              "ToolTip": "D:\\HospitalMangementSystemGUI\\UserLoginForm.cs [Design]",
+              "RelativeToolTip": "UserLoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T21:02:27.222Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PatientHome.cs",
+              "DocumentMoniker": "D:\\HospitalMangementSystemGUI\\PatientHome.cs",
+              "RelativeDocumentMoniker": "PatientHome.cs",
+              "ToolTip": "D:\\HospitalMangementSystemGUI\\PatientHome.cs",
+              "RelativeToolTip": "PatientHome.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAIAxwB8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T21:00:08.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Home.cs",
+              "DocumentMoniker": "D:\\HospitalMangementSystemGUI\\Home.cs",
+              "RelativeDocumentMoniker": "Home.cs",
+              "ToolTip": "D:\\HospitalMangementSystemGUI\\Home.cs",
+              "RelativeToolTip": "Home.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAewGsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T20:33:57.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Home.cs [Design]",
+              "DocumentMoniker": "D:\\HospitalMangementSystemGUI\\Home.cs",
+              "RelativeDocumentMoniker": "Home.cs",
+              "ToolTip": "D:\\HospitalMangementSystemGUI\\Home.cs [Design]",
+              "RelativeToolTip": "Home.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T20:33:18.371Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Dashboard.Designer.cs",
+              "DocumentMoniker": "D:\\HospitalMangementSystemGUI\\Dashboard.Designer.cs",
+              "RelativeDocumentMoniker": "Dashboard.Designer.cs",
+              "ToolTip": "D:\\HospitalMangementSystemGUI\\Dashboard.Designer.cs",
+              "RelativeToolTip": "Dashboard.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T07:19:17.089Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
